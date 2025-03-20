@@ -13,13 +13,7 @@ html{
 .pink{
   color: rgb(255, 192, 203);/*ピンク*/
 }
-/*MY PROFILE の M と P の色変更*/
-.blue{
-  font-weight: bold;
-}
-.pink{
-  font-weight: bold;
-}
+
 /*見出しごとの色指定*/
 h2.pink{
   color: rgb(255, 192, 203); /*ピンク*/
