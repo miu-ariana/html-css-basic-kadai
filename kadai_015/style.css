@@ -8,7 +8,7 @@ html{
 }
 /*色の指定*/
 .blue{
-  color:rgb(58, 193, 255);/*skyblue*/
+  color:skyblue;/*skyblueをキーワードで指定指定*/
 }
 .pink{
   color: rgb(255, 192, 203);/*ピンク*/
@@ -19,7 +19,7 @@ h2.pink{
   color: rgb(255, 192, 203); /*ピンク*/
 }
 h2.blue{
-  color: rgb(58, 193, 255); /*skyblue*/
+  color: skyblue; /*skyblueをキーワードで指定*/
 }
 /*h1のスタイル*/
 h1{
