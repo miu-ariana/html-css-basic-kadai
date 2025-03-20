@@ -1,0 +1,45 @@
+/*フォントの種類*/
+body{
+  font-family: "Arial","Meiryo",sans-serif;
+}
+/*ルート要素のフォントサイズ*/
+html{
+  font-size: 20px;
+}
+/*色の指定*/
+.blue{
+  color:rgb(58, 193, 255);/*スカイブルー*/
+}
+.pink{
+  color: rgb(255, 182, 203);/*ピンク*/
+}
+/*MY PROFILE の M と P の色変更*/
+h1.blue{
+  font-weight: bold;
+}
+h1.pink{
+  font-weight: bold;
+}
+/*見出しごとの色指定*/
+h2.pink{
+  color: rgb(255, 182, 203); /*ピンク*/
+}
+h2.blue{
+  color: rgb(58, 193, 255); /*スカイブルー*/
+}
+/*h1のスタイル*/
+h1{
+  font-family: 'Josefin Sans', sans-serif; /*Googleフォント*/
+  font-size: 2em; /*ルート要素の2倍*/
+  letter-spacing: 1.2em; /*文字間隔を1.2倍*/
+  text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5); /*影(適当に設定)*/
+  border-bottom: 3px solid rgb(115, 115, 114); /*3pxの実践*/
+}
+/*全てのテキストを中央寄せ*/
+body{
+  text-align: center;
+}
+/*idがbasicのdivタグの中のp要素の特定のテキストを太文字にする*/
+#basic p strong{
+  font-weight: bold;
+}
