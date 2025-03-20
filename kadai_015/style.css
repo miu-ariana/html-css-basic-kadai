@@ -14,10 +14,10 @@ html{
   color: rgb(255, 192, 203);/*ピンク*/
 }
 /*MY PROFILE の M と P の色変更*/
-h1.blue{
+.blue{
   font-weight: bold;
 }
-h1.pink{
+.pink{
   font-weight: bold;
 }
 /*見出しごとの色指定*/
@@ -31,7 +31,7 @@ h2.blue{
 h1{
   font-family: 'Josefin Sans', sans-serif; /*Googleフォント*/
   font-size: 2em; /*ルート要素の2倍*/
-  letter-spacing: 1.2em; /*文字間隔を1.2倍*/
+  letter-spacing: 1.2rem; /*文字間隔を1.2倍*/
   text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5); /*影(適当に設定)*/
   border-bottom: 3px solid rgb(115, 115, 114); /*3pxの実践*/
 }
