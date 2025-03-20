@@ -8,7 +8,7 @@ html{
 }
 /*色の指定*/
 .blue{
-  color:rgb(58, 193, 255);/*スカイブルー*/
+  color:rgb(58, 193, 255);/*skyblue*/
 }
 .pink{
   color: rgb(255, 192, 203);/*ピンク*/
@@ -25,13 +25,13 @@ h2.pink{
   color: rgb(255, 192, 203); /*ピンク*/
 }
 h2.blue{
-  color: rgb(58, 193, 255); /*スカイブルー*/
+  color: rgb(58, 193, 255); /*skyblue*/
 }
 /*h1のスタイル*/
 h1{
   font-family: 'Josefin Sans', sans-serif; /*Googleフォント*/
   font-size: 2em; /*ルート要素の2倍*/
-  letter-spacing: 1.2rem; /*文字間隔を1.2倍*/
+  letter-spacing: 1.2em; /*文字間隔を1.2倍*/
   text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5); /*影(適当に設定)*/
   border-bottom: 3px solid rgb(115, 115, 114); /*3pxの実践*/
 }
