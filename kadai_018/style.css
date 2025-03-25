@@ -1,8 +1,7 @@
 #top{
   width: 800px;
   background-color: #dcc9f4;
-  padding: 20px auto;
-  margin: 0 auto;
+  margin: 20px auto;
   text-align: center; 
   box-sizing: border-box;
 }
@@ -27,7 +26,7 @@
 #middle-child03{
   width: 200px;
   height: 200px;
-  background-color: #87ceed;
+  background-color: #87ceeb;
   position: absolute;
 }
 
@@ -54,7 +53,7 @@
   width: 800px;
   height: 300px;
   margin: 0 auto;
-  background-color: #87ceed;
+  background-color: #87ceeb;
   position: relative;
 }
 
@@ -68,17 +67,14 @@
 }
 
 #bottom-child01{
-  top: 0;
   left: 0;
 }
 
 #bottom-child02{
-  top: 0;
   left: 200px;
 }
 
 #bottom-child03{
-  top: 0;
   left: 400px;
 }
 
